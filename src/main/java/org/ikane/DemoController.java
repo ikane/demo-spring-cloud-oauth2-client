@@ -13,6 +13,7 @@ public class DemoController {
 	public String home() {
 		return	"home";
 	}
+	
 	/*
 	@RequestMapping("/")
 	@ResponseBody
